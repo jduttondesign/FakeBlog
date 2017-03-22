@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace FakeBlog.Models
 {
-    public class Post
+    public class Colaborator
     {
         [Key]
         public int PostId { get; set; }
